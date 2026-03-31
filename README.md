@@ -9,4 +9,5 @@ dependencies
 matplotlib
 numpy
 cv2
+sklearn
 ```
